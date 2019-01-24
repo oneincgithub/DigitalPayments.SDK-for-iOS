@@ -5,4 +5,4 @@ When these methods are invoked, a modal will open which will allow a user to mak
 
 ## Installing
 
-Information about installing DigitalPaymentsSDK library look at [documentation](https://testportalone.processonepayments.com/Help/Documentation/ios-sdk) 
+Information about installing DigitalPaymentsSDK library look at [documentation](https://developers.processonepayments.com/Help/Documentation/ios-sdk) 
