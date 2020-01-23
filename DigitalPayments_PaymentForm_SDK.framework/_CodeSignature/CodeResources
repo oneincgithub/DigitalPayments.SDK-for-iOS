@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		z1P0l43k4fNJaaiye845y6JZxHI=
+		VV2y3Srq8YYoxR2BWXyRXmqNIMM=
 		</data>
 		<key>BankAccountPaymentViewController.storyboardc/Info.plist</key>
 		<data>
@@ -14,19 +14,27 @@
 		</data>
 		<key>BankAccountPaymentViewController.storyboardc/UIViewController-okY-hW-9Wm.nib/objects-11.0+.nib</key>
 		<data>
-		frBAqnjvfB7Hcm/XSlGJAspOkj4=
+		S3P5roacCMzX9/TZIsMIgBVWKs4=
+		</data>
+		<key>BankAccountPaymentViewController.storyboardc/UIViewController-okY-hW-9Wm.nib/objects-13.0+.nib</key>
+		<data>
+		9uwLekmAqo20XtOyMSOoDk85j+k=
 		</data>
 		<key>BankAccountPaymentViewController.storyboardc/UIViewController-okY-hW-9Wm.nib/runtime.nib</key>
 		<data>
-		CYv/el5LF2REdpUsgXcJfiXyhpc=
+		kUeOTDeM1SyhC0OYmzb7ekKuqjc=
 		</data>
 		<key>BankAccountPaymentViewController.storyboardc/okY-hW-9Wm-view-Q43-V8-2WD.nib/objects-11.0+.nib</key>
 		<data>
-		l1ORpSmvF0S37t/hGkHRdrnfglE=
+		sutF2tYHtnJahB3ESUhlTr/zMvs=
+		</data>
+		<key>BankAccountPaymentViewController.storyboardc/okY-hW-9Wm-view-Q43-V8-2WD.nib/objects-13.0+.nib</key>
+		<data>
+		3dWiJoSU3uYeqqInXVQq0qyBNHY=
 		</data>
 		<key>BankAccountPaymentViewController.storyboardc/okY-hW-9Wm-view-Q43-V8-2WD.nib/runtime.nib</key>
 		<data>
-		Fg8Cw5ydr/r0MbtXk1iQoWK7qgM=
+		r/xg72uS1Ldwdja7PxMt9KmRFkU=
 		</data>
 		<key>CreditCardPaymentViewController.storyboardc/Info.plist</key>
 		<data>
@@ -34,19 +42,27 @@
 		</data>
 		<key>CreditCardPaymentViewController.storyboardc/MWT-Fo-JcU-view-OSh-Uo-wEq.nib/objects-11.0+.nib</key>
 		<data>
-		aRCvzlPcGAJ+p/EY0FqzUhkQTng=
+		zuyNDsNNX6attvnNfkw2XfjV/6s=
+		</data>
+		<key>CreditCardPaymentViewController.storyboardc/MWT-Fo-JcU-view-OSh-Uo-wEq.nib/objects-13.0+.nib</key>
+		<data>
+		HKQJOBzdxLw0s01U4NtWIAW6XiY=
 		</data>
 		<key>CreditCardPaymentViewController.storyboardc/MWT-Fo-JcU-view-OSh-Uo-wEq.nib/runtime.nib</key>
 		<data>
-		D8n0B9v2+ZUZXlVOZvIzFkzCQ1w=
+		qemZnk0qp8Kie38o2JYxLC14h9c=
 		</data>
 		<key>CreditCardPaymentViewController.storyboardc/UIViewController-MWT-Fo-JcU.nib/objects-11.0+.nib</key>
 		<data>
-		zucUB6rWoEAkgXETUqTXwo+4uxc=
+		Cg7afQGmTTKyv1dEk+3E+BqMVYU=
+		</data>
+		<key>CreditCardPaymentViewController.storyboardc/UIViewController-MWT-Fo-JcU.nib/objects-13.0+.nib</key>
+		<data>
+		HBRksTAEyPtiaR9LPLQlNY8Y3ok=
 		</data>
 		<key>CreditCardPaymentViewController.storyboardc/UIViewController-MWT-Fo-JcU.nib/runtime.nib</key>
 		<data>
-		uD1CFErz5H0YwH+Wry+qFdfSPOY=
+		9+fl9aA9BjIMa1ejqHXKXzxRnXU=
 		</data>
 		<key>Headers/DigitalPaymentsSDK.h</key>
 		<data>
@@ -54,27 +70,71 @@
 		</data>
 		<key>Headers/DigitalPayments_PaymentForm_SDK-Swift.h</key>
 		<data>
-		scUKxAk5/EmtuXHV9wkTebcB9u4=
+		7cZOZOTgAKQFcF172bUr9Q2R5/o=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		JT6IN+OFtswQsBtbqDN4o9Frz28=
+		SthRwhHjicWJK/fb0vl8d62dARA=
 		</data>
 		<key>Modules/DigitalPayments_PaymentForm_SDK.swiftmodule/arm.swiftdoc</key>
 		<data>
-		BbmNe2YzC8DHv7royVr7tFGcys0=
+		VGDdlH38bhCVvewhIGHA6CWe9WY=
+		</data>
+		<key>Modules/DigitalPayments_PaymentForm_SDK.swiftmodule/arm.swiftinterface</key>
+		<data>
+		9uh1zRqw7e45DB0/Xr8YtP2dRmI=
 		</data>
 		<key>Modules/DigitalPayments_PaymentForm_SDK.swiftmodule/arm.swiftmodule</key>
 		<data>
-		kY5+qO3wTqBCRxnURiIlg6lDkU8=
+		SSWh4+kEEPwT5SjLtaz53XlKFdY=
+		</data>
+		<key>Modules/DigitalPayments_PaymentForm_SDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<data>
+		2GHCWeJ1u6KlGt9F0F+urAPG+Nc=
+		</data>
+		<key>Modules/DigitalPayments_PaymentForm_SDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<data>
+		wMJQs1uvGq6797e2RX8N6lcAu8M=
+		</data>
+		<key>Modules/DigitalPayments_PaymentForm_SDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<data>
+		a4oxjGnREKK8hGyiANFXQjvr5eU=
 		</data>
 		<key>Modules/DigitalPayments_PaymentForm_SDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		tA1CZrEUIeIKVFgmxlk3lyNaQx4=
+		2GHCWeJ1u6KlGt9F0F+urAPG+Nc=
+		</data>
+		<key>Modules/DigitalPayments_PaymentForm_SDK.swiftmodule/arm64.swiftinterface</key>
+		<data>
+		wMJQs1uvGq6797e2RX8N6lcAu8M=
 		</data>
 		<key>Modules/DigitalPayments_PaymentForm_SDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		bg8mqebH8vxUbc6Ol/OIm2XtWjg=
+		a4oxjGnREKK8hGyiANFXQjvr5eU=
+		</data>
+		<key>Modules/DigitalPayments_PaymentForm_SDK.swiftmodule/armv7-apple-ios.swiftdoc</key>
+		<data>
+		VGDdlH38bhCVvewhIGHA6CWe9WY=
+		</data>
+		<key>Modules/DigitalPayments_PaymentForm_SDK.swiftmodule/armv7-apple-ios.swiftinterface</key>
+		<data>
+		9uh1zRqw7e45DB0/Xr8YtP2dRmI=
+		</data>
+		<key>Modules/DigitalPayments_PaymentForm_SDK.swiftmodule/armv7-apple-ios.swiftmodule</key>
+		<data>
+		SSWh4+kEEPwT5SjLtaz53XlKFdY=
+		</data>
+		<key>Modules/DigitalPayments_PaymentForm_SDK.swiftmodule/armv7.swiftdoc</key>
+		<data>
+		VGDdlH38bhCVvewhIGHA6CWe9WY=
+		</data>
+		<key>Modules/DigitalPayments_PaymentForm_SDK.swiftmodule/armv7.swiftinterface</key>
+		<data>
+		9uh1zRqw7e45DB0/Xr8YtP2dRmI=
+		</data>
+		<key>Modules/DigitalPayments_PaymentForm_SDK.swiftmodule/armv7.swiftmodule</key>
+		<data>
+		SSWh4+kEEPwT5SjLtaz53XlKFdY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -82,11 +142,15 @@
 		</data>
 		<key>PaymentConfirmationViewController.storyboardc/0UQ-hs-Of9-view-Lnd-3Z-UmQ.nib/objects-11.0+.nib</key>
 		<data>
-		TCJkDKCkdcShLNB/Fmm8K9dVYU8=
+		N3TkisvMwIBe/q7OtDQWYEtZ0fo=
+		</data>
+		<key>PaymentConfirmationViewController.storyboardc/0UQ-hs-Of9-view-Lnd-3Z-UmQ.nib/objects-13.0+.nib</key>
+		<data>
+		fySmzZ5d4n9GxvSCyBnfQO5SHig=
 		</data>
 		<key>PaymentConfirmationViewController.storyboardc/0UQ-hs-Of9-view-Lnd-3Z-UmQ.nib/runtime.nib</key>
 		<data>
-		HMB1VnfrBisHn/hU4o3g4V5qKSw=
+		6i8BWLAJrgVJlP2krCA9AxdfaYo=
 		</data>
 		<key>PaymentConfirmationViewController.storyboardc/Info.plist</key>
 		<data>
@@ -94,11 +158,15 @@
 		</data>
 		<key>PaymentConfirmationViewController.storyboardc/UIViewController-0UQ-hs-Of9.nib/objects-11.0+.nib</key>
 		<data>
-		y0zeWuhd5VnzPXObKlkeoRU96Pc=
+		Uy78gXdCFPxwPbjmXTD/5S6QRgw=
+		</data>
+		<key>PaymentConfirmationViewController.storyboardc/UIViewController-0UQ-hs-Of9.nib/objects-13.0+.nib</key>
+		<data>
+		Jn2a10YoGtLABXEYddwTm/m1eOM=
 		</data>
 		<key>PaymentConfirmationViewController.storyboardc/UIViewController-0UQ-hs-Of9.nib/runtime.nib</key>
 		<data>
-		o2KeI1P6TEz82OUAEX4KM3eORNk=
+		fqIpEoM/Lc2S6Hq+MLU9RWywulA=
 		</data>
 		<key>PaymentFormViewController.storyboardc/Info.plist</key>
 		<data>
@@ -106,43 +174,63 @@
 		</data>
 		<key>PaymentFormViewController.storyboardc/PageViewController.nib/objects-11.0+.nib</key>
 		<data>
-		BCvSK2dI6c2+vuPxZgXwCR5Fwkg=
+		AIeuAClNogNy5c1hPh/+SyzI1Gw=
+		</data>
+		<key>PaymentFormViewController.storyboardc/PageViewController.nib/objects-13.0+.nib</key>
+		<data>
+		JMzRZMqssjWtK3egK7vnuUPYJdQ=
 		</data>
 		<key>PaymentFormViewController.storyboardc/PageViewController.nib/runtime.nib</key>
 		<data>
-		3fiLeIwVW8yjN81cp+UskSvzKU4=
+		OK4Ar8XYLCOcWunm0a6bSFIfkVk=
 		</data>
 		<key>PaymentFormViewController.storyboardc/UIViewController-fHX-EH-3UE.nib/objects-11.0+.nib</key>
 		<data>
-		iM9LT9xc9VSAn8iIHOe8WwRkaEM=
+		3VQkzFOgjQMhyb8lcQypAXriUrw=
+		</data>
+		<key>PaymentFormViewController.storyboardc/UIViewController-fHX-EH-3UE.nib/objects-13.0+.nib</key>
+		<data>
+		VNeXbwYrqiTH49ZvrcbkO2N+I08=
 		</data>
 		<key>PaymentFormViewController.storyboardc/UIViewController-fHX-EH-3UE.nib/runtime.nib</key>
 		<data>
-		o+im/T8+0UIm3PFXyQGgdZcbifQ=
+		tfcJ5CujcGoLFFm3e77/GaNN/qA=
 		</data>
 		<key>PaymentFormViewController.storyboardc/fHX-EH-3UE-view-Zmv-qb-AOC.nib/objects-11.0+.nib</key>
 		<data>
-		yD3O2gqd7sZXuDRoFrcc5YoRthc=
+		56psiULiz0ESRmfI/RnJOWBjlyM=
+		</data>
+		<key>PaymentFormViewController.storyboardc/fHX-EH-3UE-view-Zmv-qb-AOC.nib/objects-13.0+.nib</key>
+		<data>
+		mToY0eVjNVWKfiiI2zx+RbE92xo=
 		</data>
 		<key>PaymentFormViewController.storyboardc/fHX-EH-3UE-view-Zmv-qb-AOC.nib/runtime.nib</key>
 		<data>
-		6CbxX+T8UI1NKOThtXhRZvh52bk=
+		TPL+A/OghZBofTRcP3LN1UFsjts=
 		</data>
 		<key>PaymentRadioButton.nib/objects-11.0+.nib</key>
 		<data>
-		x07EXeYhIdDzXA3IrLdweH1eEoU=
+		O+nVbA0jWkL6AJifqBDVxmkqLTE=
+		</data>
+		<key>PaymentRadioButton.nib/objects-13.0+.nib</key>
+		<data>
+		/4Hn2LrPIaV7jJb/SeqZdtH+hZc=
 		</data>
 		<key>PaymentRadioButton.nib/runtime.nib</key>
 		<data>
-		BnLAo+L26UuAeDT21rtAJo4gz04=
+		KeRNbj56BON3dhoYt1OqHJxZn2A=
 		</data>
 		<key>PaymentReviewViewController.storyboardc/EMj-s1-VQg-view-UbK-Se-gjD.nib/objects-11.0+.nib</key>
 		<data>
-		13hwFEIcm2j/pz54rCNzQ2IRqpw=
+		Oa7bXdaKIT+GUJ99F3HYA4E8TWY=
+		</data>
+		<key>PaymentReviewViewController.storyboardc/EMj-s1-VQg-view-UbK-Se-gjD.nib/objects-13.0+.nib</key>
+		<data>
+		COV8SNE5gWb8cPydu77Yf5uEt4E=
 		</data>
 		<key>PaymentReviewViewController.storyboardc/EMj-s1-VQg-view-UbK-Se-gjD.nib/runtime.nib</key>
 		<data>
-		JrTBL906ll4wHrgE3tOsxVvQMp4=
+		mHNxhGgEjmYLS4APqZ4ahzoTuyM=
 		</data>
 		<key>PaymentReviewViewController.storyboardc/Info.plist</key>
 		<data>
@@ -150,19 +238,27 @@
 		</data>
 		<key>PaymentReviewViewController.storyboardc/UIViewController-EMj-s1-VQg.nib/objects-11.0+.nib</key>
 		<data>
-		NJL/eW8XV3wgAlmU6Wml/i9Y+wk=
+		BZOiYlJhccTh7YTYsZilLpeJjVY=
+		</data>
+		<key>PaymentReviewViewController.storyboardc/UIViewController-EMj-s1-VQg.nib/objects-13.0+.nib</key>
+		<data>
+		3jHuso/e42a1UkJ4v4hDXDsyYUU=
 		</data>
 		<key>PaymentReviewViewController.storyboardc/UIViewController-EMj-s1-VQg.nib/runtime.nib</key>
 		<data>
-		AFM0bFWctNzhEAPNlZxAB2Hg90Y=
+		7y4RVC2/hfahnSjX+0nxxYqu8sI=
 		</data>
 		<key>PaymentStartViewController.storyboardc/23O-v0-kPp-view-GWF-cq-rLo.nib/objects-11.0+.nib</key>
 		<data>
-		L3K2S3tVmPM1QJPa6ds15alHKu0=
+		JJpbvepCEZfLNMK9fiVlB0RF6SU=
+		</data>
+		<key>PaymentStartViewController.storyboardc/23O-v0-kPp-view-GWF-cq-rLo.nib/objects-13.0+.nib</key>
+		<data>
+		1MYgSGn1llnvxqrPdGFgZPxVs3g=
 		</data>
 		<key>PaymentStartViewController.storyboardc/23O-v0-kPp-view-GWF-cq-rLo.nib/runtime.nib</key>
 		<data>
-		H7MHRqMUw89wi6Z2KGiRwCoa9d0=
+		JHE6jWaQkcTJqHWprikv50dzsDo=
 		</data>
 		<key>PaymentStartViewController.storyboardc/Info.plist</key>
 		<data>
@@ -170,35 +266,51 @@
 		</data>
 		<key>PaymentStartViewController.storyboardc/UIViewController-23O-v0-kPp.nib/objects-11.0+.nib</key>
 		<data>
-		/ZRcae21M6DeYQhnrZgxE+u84CY=
+		d/Kt4t3yiMRHrxe84nxBc2QbVGs=
+		</data>
+		<key>PaymentStartViewController.storyboardc/UIViewController-23O-v0-kPp.nib/objects-13.0+.nib</key>
+		<data>
+		nxVT8uY7yuoL+sVDA2hNCvtJ8ww=
 		</data>
 		<key>PaymentStartViewController.storyboardc/UIViewController-23O-v0-kPp.nib/runtime.nib</key>
 		<data>
-		nPmF/CHQ4KyTPKm9sT0WlW44Ko8=
+		eJaf2t2EEFzGwa+aQ/PVNri8wng=
 		</data>
 		<key>PaymentStartViewController.storyboardc/UIViewController-hMc-XT-Azq.nib/objects-11.0+.nib</key>
 		<data>
-		dptfLE5PFHr4JthmnRzPqgXupy4=
+		r/A/1Oq1ujgpXKNdVTKi0DZWaI4=
+		</data>
+		<key>PaymentStartViewController.storyboardc/UIViewController-hMc-XT-Azq.nib/objects-13.0+.nib</key>
+		<data>
+		+htSj6jQYIn8cxhXV8UcqV83Ewc=
 		</data>
 		<key>PaymentStartViewController.storyboardc/UIViewController-hMc-XT-Azq.nib/runtime.nib</key>
 		<data>
-		swh+qQOPU769Xe/r5w5QoVmNZOw=
+		w+cP9aL12suHNgC/wybEWQHHmUA=
 		</data>
 		<key>PaymentStartViewController.storyboardc/hMc-XT-Azq-view-eYw-PZ-jGH.nib/objects-11.0+.nib</key>
 		<data>
-		tQ0dIG3U8CyuJ6Sgj+OG1N/CSZU=
+		aqyInOPrYzzNaBd1Pm6qnuz9lqQ=
+		</data>
+		<key>PaymentStartViewController.storyboardc/hMc-XT-Azq-view-eYw-PZ-jGH.nib/objects-13.0+.nib</key>
+		<data>
+		57gZ+p9FkQi3jSOCHraF1JA7N0k=
 		</data>
 		<key>PaymentStartViewController.storyboardc/hMc-XT-Azq-view-eYw-PZ-jGH.nib/runtime.nib</key>
 		<data>
-		L6nluRZV4BWhOUZZAymtlYC9zaI=
+		ickOOtQCPKnBitxkzI4huQF75uk=
 		</data>
 		<key>TableRowView.nib/objects-11.0+.nib</key>
 		<data>
-		8W4S0o7ggE+tGBxIHYiE7UAqhxc=
+		/M9iw1qHfJXRW1RLCTlKzR3Jd4E=
+		</data>
+		<key>TableRowView.nib/objects-13.0+.nib</key>
+		<data>
+		gio5sqcR4dPoWyws2EL/2P5r8NA=
 		</data>
 		<key>TableRowView.nib/runtime.nib</key>
 		<data>
-		TdPc1eI+L+JORkFgxbcJgLppZnU=
+		XTfws/WOFDXQSHwH0BhPmDf52/g=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -207,11 +319,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			z1P0l43k4fNJaaiye845y6JZxHI=
+			VV2y3Srq8YYoxR2BWXyRXmqNIMM=
 			</data>
 			<key>hash2</key>
 			<data>
-			OkGuOLSVaDd76uzsA9Rdss9AWMtgRYekqlk4Xolzm1g=
+			r16gbdNjctk0PFP37vtonZ9b1GGf8FnRZGVT21687Xs=
 			</data>
 		</dict>
 		<key>BankAccountPaymentViewController.storyboardc/Info.plist</key>
@@ -229,44 +341,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			frBAqnjvfB7Hcm/XSlGJAspOkj4=
+			S3P5roacCMzX9/TZIsMIgBVWKs4=
 			</data>
 			<key>hash2</key>
 			<data>
-			/yPBY01rZ3FEs/nOYBG7eNtZpylKXI5FsU7HYuJAv9M=
+			XzcJOkGNgwZ6jm1kV1ZQnmfBr1e77KzvlvppON9SgVg=
+			</data>
+		</dict>
+		<key>BankAccountPaymentViewController.storyboardc/UIViewController-okY-hW-9Wm.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			9uwLekmAqo20XtOyMSOoDk85j+k=
+			</data>
+			<key>hash2</key>
+			<data>
+			ZCLNfe1nD8po9C7PYour4IqM385Ibb9xYu7xlUS117E=
 			</data>
 		</dict>
 		<key>BankAccountPaymentViewController.storyboardc/UIViewController-okY-hW-9Wm.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			CYv/el5LF2REdpUsgXcJfiXyhpc=
+			kUeOTDeM1SyhC0OYmzb7ekKuqjc=
 			</data>
 			<key>hash2</key>
 			<data>
-			6rvM2QDth/HHWM31ZmNYc8tdvoiWUBxzsXs8+3+kq7I=
+			WEQAAbvxAi6/+RAve6jeCw4I17KCa8INJAssAtNSQ0Q=
 			</data>
 		</dict>
 		<key>BankAccountPaymentViewController.storyboardc/okY-hW-9Wm-view-Q43-V8-2WD.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			l1ORpSmvF0S37t/hGkHRdrnfglE=
+			sutF2tYHtnJahB3ESUhlTr/zMvs=
 			</data>
 			<key>hash2</key>
 			<data>
-			FU/juLIB+4v6C/1eJ6UyPc2xXs+jnfwruBX8Iy+skT0=
+			vkfvfV+yKhdDU1zivt18KXreBHwODTQ8GRx9UUsEirI=
+			</data>
+		</dict>
+		<key>BankAccountPaymentViewController.storyboardc/okY-hW-9Wm-view-Q43-V8-2WD.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3dWiJoSU3uYeqqInXVQq0qyBNHY=
+			</data>
+			<key>hash2</key>
+			<data>
+			xI3f+GO9vsrcQdEZ0iwRDC1+onq0j+p/Xx277h1HBX8=
 			</data>
 		</dict>
 		<key>BankAccountPaymentViewController.storyboardc/okY-hW-9Wm-view-Q43-V8-2WD.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Fg8Cw5ydr/r0MbtXk1iQoWK7qgM=
+			r/xg72uS1Ldwdja7PxMt9KmRFkU=
 			</data>
 			<key>hash2</key>
 			<data>
-			tHbB0ABdT0evNzKGaqtjn449RmBEPJNB9wbrz/e9P4U=
+			9vMyjccSIK3zBf7iK62/1qTeOId9DdFwbmRxgLhjmqs=
 			</data>
 		</dict>
 		<key>CreditCardPaymentViewController.storyboardc/Info.plist</key>
@@ -284,44 +418,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			aRCvzlPcGAJ+p/EY0FqzUhkQTng=
+			zuyNDsNNX6attvnNfkw2XfjV/6s=
 			</data>
 			<key>hash2</key>
 			<data>
-			WZlLnvvY0MYOppEdjj2kNE+QLR1jOj8ULm4Z3ZJyPnI=
+			oBhEIhJ76XcCJ1Gtlr5RNmXJrepxPMOHbX5EXK7/8CM=
+			</data>
+		</dict>
+		<key>CreditCardPaymentViewController.storyboardc/MWT-Fo-JcU-view-OSh-Uo-wEq.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HKQJOBzdxLw0s01U4NtWIAW6XiY=
+			</data>
+			<key>hash2</key>
+			<data>
+			wwVU0MUq/VbRbr2h+i1tlOp2iuui3RvOpzCeoryHpCs=
 			</data>
 		</dict>
 		<key>CreditCardPaymentViewController.storyboardc/MWT-Fo-JcU-view-OSh-Uo-wEq.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			D8n0B9v2+ZUZXlVOZvIzFkzCQ1w=
+			qemZnk0qp8Kie38o2JYxLC14h9c=
 			</data>
 			<key>hash2</key>
 			<data>
-			07VFdm55McIvpIc5v4cdZgDhNgrRdHiKYzbYHORLXPw=
+			9IiNOzpQqRotp533koO2UBCiIfpV5xxohE9Ri03vHio=
 			</data>
 		</dict>
 		<key>CreditCardPaymentViewController.storyboardc/UIViewController-MWT-Fo-JcU.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zucUB6rWoEAkgXETUqTXwo+4uxc=
+			Cg7afQGmTTKyv1dEk+3E+BqMVYU=
 			</data>
 			<key>hash2</key>
 			<data>
-			AekWFUpG2+FkO8tqSzqvO75ggxC8mP9RfqgEz2mJITs=
+			CioGcQ2DMDs2kIwpqhyQcSDc7Marl8M5YPAt6UABb6Q=
+			</data>
+		</dict>
+		<key>CreditCardPaymentViewController.storyboardc/UIViewController-MWT-Fo-JcU.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HBRksTAEyPtiaR9LPLQlNY8Y3ok=
+			</data>
+			<key>hash2</key>
+			<data>
+			MnJrUaFLSS4TRYUOl3NXZTT5l0xuWh5v+yhTNit56Ao=
 			</data>
 		</dict>
 		<key>CreditCardPaymentViewController.storyboardc/UIViewController-MWT-Fo-JcU.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			uD1CFErz5H0YwH+Wry+qFdfSPOY=
+			9+fl9aA9BjIMa1ejqHXKXzxRnXU=
 			</data>
 			<key>hash2</key>
 			<data>
-			9SX+R2B5DurXVVf5zFjIvHaa9rU05FEWx9+VcEfkDmw=
+			F1maF09r1IVdoNBVvStd5irlt4SlDAUkXu39wirc0xQ=
 			</data>
 		</dict>
 		<key>Headers/DigitalPaymentsSDK.h</key>
@@ -339,55 +495,176 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			scUKxAk5/EmtuXHV9wkTebcB9u4=
+			7cZOZOTgAKQFcF172bUr9Q2R5/o=
 			</data>
 			<key>hash2</key>
 			<data>
-			pLFy5PRDGKk5uG3kxC41ESyTCMPewAnoWaQnTsTSsFg=
+			hxViXRmbib09JgT4RaUYzqTUjahS/pDpnVR/sQFvBdc=
 			</data>
 		</dict>
 		<key>Modules/DigitalPayments_PaymentForm_SDK.swiftmodule/arm.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BbmNe2YzC8DHv7royVr7tFGcys0=
+			VGDdlH38bhCVvewhIGHA6CWe9WY=
 			</data>
 			<key>hash2</key>
 			<data>
-			i/3nNjexRGa+JTNCj/M0d3bp5mYeycxIMIjxfPNaHvc=
+			D5or36wxzSl1oLkAoui+zs8M7I7RxTOYYAgRCIkHiG0=
+			</data>
+		</dict>
+		<key>Modules/DigitalPayments_PaymentForm_SDK.swiftmodule/arm.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			9uh1zRqw7e45DB0/Xr8YtP2dRmI=
+			</data>
+			<key>hash2</key>
+			<data>
+			DkFQ9yKvuYU/p8dvAFGY0ZGebwnxSypq+suPIeqRMYY=
 			</data>
 		</dict>
 		<key>Modules/DigitalPayments_PaymentForm_SDK.swiftmodule/arm.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			kY5+qO3wTqBCRxnURiIlg6lDkU8=
+			SSWh4+kEEPwT5SjLtaz53XlKFdY=
 			</data>
 			<key>hash2</key>
 			<data>
-			g4058wx3XEHqMApHEySCvONY6ofDc11fj8av1VBRoYQ=
+			ly7nQuqrDhQHrOE6jY2HwXXgH3AJlc5Ayn+wmpHO1uM=
+			</data>
+		</dict>
+		<key>Modules/DigitalPayments_PaymentForm_SDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2GHCWeJ1u6KlGt9F0F+urAPG+Nc=
+			</data>
+			<key>hash2</key>
+			<data>
+			TipjxztGkHrsv10v8fCprXP7ztuGPMQjS+lxJRNIBF8=
+			</data>
+		</dict>
+		<key>Modules/DigitalPayments_PaymentForm_SDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			wMJQs1uvGq6797e2RX8N6lcAu8M=
+			</data>
+			<key>hash2</key>
+			<data>
+			R+WHQFJXxus2ARM3/fcu7rt/OarhVqnOQsg7vrVVXUQ=
+			</data>
+		</dict>
+		<key>Modules/DigitalPayments_PaymentForm_SDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			a4oxjGnREKK8hGyiANFXQjvr5eU=
+			</data>
+			<key>hash2</key>
+			<data>
+			XK0cTyqPSn9WZAKRlL56HMnWBeXB/hHr1Kgq0lq4sZg=
 			</data>
 		</dict>
 		<key>Modules/DigitalPayments_PaymentForm_SDK.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tA1CZrEUIeIKVFgmxlk3lyNaQx4=
+			2GHCWeJ1u6KlGt9F0F+urAPG+Nc=
 			</data>
 			<key>hash2</key>
 			<data>
-			cW4cELYaJ0HpOY3yd2hukwIQIeaomKKMG+7BomwmfTc=
+			TipjxztGkHrsv10v8fCprXP7ztuGPMQjS+lxJRNIBF8=
+			</data>
+		</dict>
+		<key>Modules/DigitalPayments_PaymentForm_SDK.swiftmodule/arm64.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			wMJQs1uvGq6797e2RX8N6lcAu8M=
+			</data>
+			<key>hash2</key>
+			<data>
+			R+WHQFJXxus2ARM3/fcu7rt/OarhVqnOQsg7vrVVXUQ=
 			</data>
 		</dict>
 		<key>Modules/DigitalPayments_PaymentForm_SDK.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bg8mqebH8vxUbc6Ol/OIm2XtWjg=
+			a4oxjGnREKK8hGyiANFXQjvr5eU=
 			</data>
 			<key>hash2</key>
 			<data>
-			nqv+brCCsefCh6C0oQkvskUzYI4Ok6DC6z5OQJetX00=
+			XK0cTyqPSn9WZAKRlL56HMnWBeXB/hHr1Kgq0lq4sZg=
+			</data>
+		</dict>
+		<key>Modules/DigitalPayments_PaymentForm_SDK.swiftmodule/armv7-apple-ios.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VGDdlH38bhCVvewhIGHA6CWe9WY=
+			</data>
+			<key>hash2</key>
+			<data>
+			D5or36wxzSl1oLkAoui+zs8M7I7RxTOYYAgRCIkHiG0=
+			</data>
+		</dict>
+		<key>Modules/DigitalPayments_PaymentForm_SDK.swiftmodule/armv7-apple-ios.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			9uh1zRqw7e45DB0/Xr8YtP2dRmI=
+			</data>
+			<key>hash2</key>
+			<data>
+			DkFQ9yKvuYU/p8dvAFGY0ZGebwnxSypq+suPIeqRMYY=
+			</data>
+		</dict>
+		<key>Modules/DigitalPayments_PaymentForm_SDK.swiftmodule/armv7-apple-ios.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SSWh4+kEEPwT5SjLtaz53XlKFdY=
+			</data>
+			<key>hash2</key>
+			<data>
+			ly7nQuqrDhQHrOE6jY2HwXXgH3AJlc5Ayn+wmpHO1uM=
+			</data>
+		</dict>
+		<key>Modules/DigitalPayments_PaymentForm_SDK.swiftmodule/armv7.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VGDdlH38bhCVvewhIGHA6CWe9WY=
+			</data>
+			<key>hash2</key>
+			<data>
+			D5or36wxzSl1oLkAoui+zs8M7I7RxTOYYAgRCIkHiG0=
+			</data>
+		</dict>
+		<key>Modules/DigitalPayments_PaymentForm_SDK.swiftmodule/armv7.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			9uh1zRqw7e45DB0/Xr8YtP2dRmI=
+			</data>
+			<key>hash2</key>
+			<data>
+			DkFQ9yKvuYU/p8dvAFGY0ZGebwnxSypq+suPIeqRMYY=
+			</data>
+		</dict>
+		<key>Modules/DigitalPayments_PaymentForm_SDK.swiftmodule/armv7.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SSWh4+kEEPwT5SjLtaz53XlKFdY=
+			</data>
+			<key>hash2</key>
+			<data>
+			ly7nQuqrDhQHrOE6jY2HwXXgH3AJlc5Ayn+wmpHO1uM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -405,22 +682,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TCJkDKCkdcShLNB/Fmm8K9dVYU8=
+			N3TkisvMwIBe/q7OtDQWYEtZ0fo=
 			</data>
 			<key>hash2</key>
 			<data>
-			ISB31Bl0ghrEeaCigTwrVp/FSg/qB7Ch1b/E/SAO8RA=
+			gzSfkpV6sJbhi6omzgbSljFl2qSI7IN+w/pDPBUB4DE=
+			</data>
+		</dict>
+		<key>PaymentConfirmationViewController.storyboardc/0UQ-hs-Of9-view-Lnd-3Z-UmQ.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fySmzZ5d4n9GxvSCyBnfQO5SHig=
+			</data>
+			<key>hash2</key>
+			<data>
+			CZtYjAx7AHGho9UzOocpH99mvjeBiRpN6Sq0JQQ/7lY=
 			</data>
 		</dict>
 		<key>PaymentConfirmationViewController.storyboardc/0UQ-hs-Of9-view-Lnd-3Z-UmQ.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			HMB1VnfrBisHn/hU4o3g4V5qKSw=
+			6i8BWLAJrgVJlP2krCA9AxdfaYo=
 			</data>
 			<key>hash2</key>
 			<data>
-			Pdr1fiMbxfPJhtaHV78om5acc/+sKTJlIypmkti9LOg=
+			H1LPA9fDW0gcelByDgeY4xRveyu6lElJPz7D0UVWBHg=
 			</data>
 		</dict>
 		<key>PaymentConfirmationViewController.storyboardc/Info.plist</key>
@@ -438,22 +726,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			y0zeWuhd5VnzPXObKlkeoRU96Pc=
+			Uy78gXdCFPxwPbjmXTD/5S6QRgw=
 			</data>
 			<key>hash2</key>
 			<data>
-			XPHnHs7s1vB+1HVHaqAovR6l0wZSee869NzYbwK5B+M=
+			IoaRSfKO/6aJ/EMrTXr3R7c+qQ2bbD8iFMUeV+niJ58=
+			</data>
+		</dict>
+		<key>PaymentConfirmationViewController.storyboardc/UIViewController-0UQ-hs-Of9.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Jn2a10YoGtLABXEYddwTm/m1eOM=
+			</data>
+			<key>hash2</key>
+			<data>
+			PkeROxbcbK1dEaw0fYsbipnXL+dEceCdgjrMlDhSQME=
 			</data>
 		</dict>
 		<key>PaymentConfirmationViewController.storyboardc/UIViewController-0UQ-hs-Of9.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			o2KeI1P6TEz82OUAEX4KM3eORNk=
+			fqIpEoM/Lc2S6Hq+MLU9RWywulA=
 			</data>
 			<key>hash2</key>
 			<data>
-			LvRwhIEB+uATYsuDdS5dAzC4O+vC+MrjA4UeWPETj2U=
+			vppFvP14tt6/6NmeIHy7zRjvyDf4cV4+euwXFfjTLd0=
 			</data>
 		</dict>
 		<key>PaymentFormViewController.storyboardc/Info.plist</key>
@@ -471,110 +770,165 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BCvSK2dI6c2+vuPxZgXwCR5Fwkg=
+			AIeuAClNogNy5c1hPh/+SyzI1Gw=
 			</data>
 			<key>hash2</key>
 			<data>
-			C2lMMBcjc1EXVOqDsAfuFiatWirbwCLZkz02zTMiItY=
+			vy5lLbW76cCIFVrNw5bQid7Ys1dbY+5m0aTi0Q4Sy0g=
+			</data>
+		</dict>
+		<key>PaymentFormViewController.storyboardc/PageViewController.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			JMzRZMqssjWtK3egK7vnuUPYJdQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			6soaiKn15VI3Xn7lbwrFfjMek93v4fTHBMYjb4oolxc=
 			</data>
 		</dict>
 		<key>PaymentFormViewController.storyboardc/PageViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3fiLeIwVW8yjN81cp+UskSvzKU4=
+			OK4Ar8XYLCOcWunm0a6bSFIfkVk=
 			</data>
 			<key>hash2</key>
 			<data>
-			8dG41ddGwD27GuovdJWnT76E3mL5V/ofImlIPEP8Iiw=
+			DEyF9ipUol3z6Xo0tCZ7QUpsjR4tK+EdOjm8lFsLlLI=
 			</data>
 		</dict>
 		<key>PaymentFormViewController.storyboardc/UIViewController-fHX-EH-3UE.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			iM9LT9xc9VSAn8iIHOe8WwRkaEM=
+			3VQkzFOgjQMhyb8lcQypAXriUrw=
 			</data>
 			<key>hash2</key>
 			<data>
-			YEwnL6AV8g/jLs4XA69u/Cr/l9D6zZ3nUDwzn9MY5qc=
+			WQB4SuNkln3/z1SMVqgG98CEEC5lJE0Bq26pHYUMik4=
+			</data>
+		</dict>
+		<key>PaymentFormViewController.storyboardc/UIViewController-fHX-EH-3UE.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VNeXbwYrqiTH49ZvrcbkO2N+I08=
+			</data>
+			<key>hash2</key>
+			<data>
+			zr0C+yDDK6mOYgpq0k6QBHnufgLvkv8yVqYHMvq7gWY=
 			</data>
 		</dict>
 		<key>PaymentFormViewController.storyboardc/UIViewController-fHX-EH-3UE.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			o+im/T8+0UIm3PFXyQGgdZcbifQ=
+			tfcJ5CujcGoLFFm3e77/GaNN/qA=
 			</data>
 			<key>hash2</key>
 			<data>
-			KN5tPF0Ndnr+slRHKTVzkv9R//FB8XRXRNfhiS7W4wA=
+			HOfhELXm1Kv6pIRlNanNUMlAEUoMZ7tV01SRuxq4U9E=
 			</data>
 		</dict>
 		<key>PaymentFormViewController.storyboardc/fHX-EH-3UE-view-Zmv-qb-AOC.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yD3O2gqd7sZXuDRoFrcc5YoRthc=
+			56psiULiz0ESRmfI/RnJOWBjlyM=
 			</data>
 			<key>hash2</key>
 			<data>
-			0eZ2XXahIBAQRq1BIiYPmqYFLqU/FzOlrtM1o15QiII=
+			lPhoD0DV9NLzfIUaTmK2fExkKy6Ei0XX4zjI71+xHeY=
+			</data>
+		</dict>
+		<key>PaymentFormViewController.storyboardc/fHX-EH-3UE-view-Zmv-qb-AOC.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mToY0eVjNVWKfiiI2zx+RbE92xo=
+			</data>
+			<key>hash2</key>
+			<data>
+			gIGL3li4hKmzBF4Q/iPZPqAaSvQqq+vysGpUN2G5JxI=
 			</data>
 		</dict>
 		<key>PaymentFormViewController.storyboardc/fHX-EH-3UE-view-Zmv-qb-AOC.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6CbxX+T8UI1NKOThtXhRZvh52bk=
+			TPL+A/OghZBofTRcP3LN1UFsjts=
 			</data>
 			<key>hash2</key>
 			<data>
-			/zvkDrKMVFvePN2Eer1h1b8g6T8hQ5fDpfgAaB/NN1w=
+			kXx+LlltGexPzGL4HLPEtle/PgYgJpWtuWNMX8GJe84=
 			</data>
 		</dict>
 		<key>PaymentRadioButton.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			x07EXeYhIdDzXA3IrLdweH1eEoU=
+			O+nVbA0jWkL6AJifqBDVxmkqLTE=
 			</data>
 			<key>hash2</key>
 			<data>
-			EzRgqUMl8icxFC0a3k3knIL2ArBc20K3fMLxD3o45VI=
+			2nfKo7PBylDwm50+Mk/gqeZ0bjH6TRvaDxzSNb8rpKI=
+			</data>
+		</dict>
+		<key>PaymentRadioButton.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/4Hn2LrPIaV7jJb/SeqZdtH+hZc=
+			</data>
+			<key>hash2</key>
+			<data>
+			m6XjBULjnowTEoA/YZi5LbElPcF/2daTBjvUG7pFLyE=
 			</data>
 		</dict>
 		<key>PaymentRadioButton.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BnLAo+L26UuAeDT21rtAJo4gz04=
+			KeRNbj56BON3dhoYt1OqHJxZn2A=
 			</data>
 			<key>hash2</key>
 			<data>
-			vFCmmCkXCMq/jalbEB0rt6VYZ1VIypWVsC0XDjZcxiY=
+			Z4FRVYsSbAPZm6arOFWiHzR2IgEwiNkSqUQRKidtNEM=
 			</data>
 		</dict>
 		<key>PaymentReviewViewController.storyboardc/EMj-s1-VQg-view-UbK-Se-gjD.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			13hwFEIcm2j/pz54rCNzQ2IRqpw=
+			Oa7bXdaKIT+GUJ99F3HYA4E8TWY=
 			</data>
 			<key>hash2</key>
 			<data>
-			/glXM0MurfK/a9mIbwAZOjKNGuhc2LXcL2Xl++Or204=
+			rolYDEI0XGXAbTDy8vRNbfhGhRhzZiYgKHfHASGodDM=
+			</data>
+		</dict>
+		<key>PaymentReviewViewController.storyboardc/EMj-s1-VQg-view-UbK-Se-gjD.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			COV8SNE5gWb8cPydu77Yf5uEt4E=
+			</data>
+			<key>hash2</key>
+			<data>
+			ORZiIexjdyPwMt3ZJGG02pZlKKN/cixHy8N7hiR+Zfc=
 			</data>
 		</dict>
 		<key>PaymentReviewViewController.storyboardc/EMj-s1-VQg-view-UbK-Se-gjD.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			JrTBL906ll4wHrgE3tOsxVvQMp4=
+			mHNxhGgEjmYLS4APqZ4ahzoTuyM=
 			</data>
 			<key>hash2</key>
 			<data>
-			08VLomlW5FQ/KNfycGQPTOsDt+pHODkMv8GKegLMuAw=
+			EavZBjBSzKvbohVzLacKc+sJR6NOqVuGddDwD7JJyHI=
 			</data>
 		</dict>
 		<key>PaymentReviewViewController.storyboardc/Info.plist</key>
@@ -592,44 +946,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NJL/eW8XV3wgAlmU6Wml/i9Y+wk=
+			BZOiYlJhccTh7YTYsZilLpeJjVY=
 			</data>
 			<key>hash2</key>
 			<data>
-			aYMr/bC1mv8Hr0BipMFmuw9iblHcRDL05B6kjmLpWic=
+			3tPTQFNj0pBwN2C4g5iMxFmqilveknJmqskmU7hNXPA=
+			</data>
+		</dict>
+		<key>PaymentReviewViewController.storyboardc/UIViewController-EMj-s1-VQg.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3jHuso/e42a1UkJ4v4hDXDsyYUU=
+			</data>
+			<key>hash2</key>
+			<data>
+			atw1p4Hoa24Z4tWGEDcaxjS3eZOGmlbdlgTs7jnA95k=
 			</data>
 		</dict>
 		<key>PaymentReviewViewController.storyboardc/UIViewController-EMj-s1-VQg.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			AFM0bFWctNzhEAPNlZxAB2Hg90Y=
+			7y4RVC2/hfahnSjX+0nxxYqu8sI=
 			</data>
 			<key>hash2</key>
 			<data>
-			cZ7r3nfxPzu5numnUH41Pq+nFSKPpw+k7e6o2z+aeI0=
+			WJLk1/u40g0XF3aArj1hrrDAER/ov5z5flajS6+aoSY=
 			</data>
 		</dict>
 		<key>PaymentStartViewController.storyboardc/23O-v0-kPp-view-GWF-cq-rLo.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			L3K2S3tVmPM1QJPa6ds15alHKu0=
+			JJpbvepCEZfLNMK9fiVlB0RF6SU=
 			</data>
 			<key>hash2</key>
 			<data>
-			tKx6tptV37fkZafa94ytsVoDmpEpNytmVcXGtth+5Y4=
+			a1TSOHJViXHZL9TD8xYMNJTyVkGpsk9zaEeRZ7Uu0p0=
+			</data>
+		</dict>
+		<key>PaymentStartViewController.storyboardc/23O-v0-kPp-view-GWF-cq-rLo.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1MYgSGn1llnvxqrPdGFgZPxVs3g=
+			</data>
+			<key>hash2</key>
+			<data>
+			uNgtBzD2GxUwDILX65poGIPND/JQwLnC+MtlICGlny4=
 			</data>
 		</dict>
 		<key>PaymentStartViewController.storyboardc/23O-v0-kPp-view-GWF-cq-rLo.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			H7MHRqMUw89wi6Z2KGiRwCoa9d0=
+			JHE6jWaQkcTJqHWprikv50dzsDo=
 			</data>
 			<key>hash2</key>
 			<data>
-			NLpDgRWCkBKhjceJFZlOWSABPnKzzCo3v1bBRXiBq5M=
+			NteWOu00WVyja4USzc6VfBSajCdH7p18CdWTL7gN/cM=
 			</data>
 		</dict>
 		<key>PaymentStartViewController.storyboardc/Info.plist</key>
@@ -647,94 +1023,138 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/ZRcae21M6DeYQhnrZgxE+u84CY=
+			d/Kt4t3yiMRHrxe84nxBc2QbVGs=
 			</data>
 			<key>hash2</key>
 			<data>
-			DASZN6VlHN+gF8hAnSdhdLGUuF4h7EuessW1W7U2soY=
+			chOingeAA+toDjHSfe90G+mfJFLzwwuldzhHPktAgUo=
+			</data>
+		</dict>
+		<key>PaymentStartViewController.storyboardc/UIViewController-23O-v0-kPp.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nxVT8uY7yuoL+sVDA2hNCvtJ8ww=
+			</data>
+			<key>hash2</key>
+			<data>
+			39M/vqg/TXpEXZL8B2bLJmfTZbXMJRvjN35gAktQ3Io=
 			</data>
 		</dict>
 		<key>PaymentStartViewController.storyboardc/UIViewController-23O-v0-kPp.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nPmF/CHQ4KyTPKm9sT0WlW44Ko8=
+			eJaf2t2EEFzGwa+aQ/PVNri8wng=
 			</data>
 			<key>hash2</key>
 			<data>
-			wkow6tI7y6Wjw8DWPA/ctfvPcONyvetLJwRZBcf2e98=
+			Rt4prDW2DSCiZWn9OhyzrhVBhRnAmpBADjYQoMqebJM=
 			</data>
 		</dict>
 		<key>PaymentStartViewController.storyboardc/UIViewController-hMc-XT-Azq.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dptfLE5PFHr4JthmnRzPqgXupy4=
+			r/A/1Oq1ujgpXKNdVTKi0DZWaI4=
 			</data>
 			<key>hash2</key>
 			<data>
-			p7J23RzBRuLdk5x2Yf52tD2Vxu0TKDLzlUeuaiQiuMU=
+			KI8k2iJu/0y+pjH5wDFOEG/rUn6mIUgCYP/+SU3awiE=
+			</data>
+		</dict>
+		<key>PaymentStartViewController.storyboardc/UIViewController-hMc-XT-Azq.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+htSj6jQYIn8cxhXV8UcqV83Ewc=
+			</data>
+			<key>hash2</key>
+			<data>
+			4usP/gnFcBHvwCq18bKj2YfAF/Ywjg9JdFIWzyYpBAc=
 			</data>
 		</dict>
 		<key>PaymentStartViewController.storyboardc/UIViewController-hMc-XT-Azq.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			swh+qQOPU769Xe/r5w5QoVmNZOw=
+			w+cP9aL12suHNgC/wybEWQHHmUA=
 			</data>
 			<key>hash2</key>
 			<data>
-			UPBHl8NwIXWcLme6q35OTPlyREKGJ1EO40i/+cZg5ow=
+			7ioEFCLbSOG22M/KHK6SQyXai3cdTY5dR+BOEIcSzhM=
 			</data>
 		</dict>
 		<key>PaymentStartViewController.storyboardc/hMc-XT-Azq-view-eYw-PZ-jGH.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tQ0dIG3U8CyuJ6Sgj+OG1N/CSZU=
+			aqyInOPrYzzNaBd1Pm6qnuz9lqQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			Tyo4WJ+qi2x1rtgmEtS0NDho4xrvCW1h9/Wfo29S5Hg=
+			xk9iQgI+FRn7VP5ramELNlMod1StAmQQ9g5ZYN4jV/M=
+			</data>
+		</dict>
+		<key>PaymentStartViewController.storyboardc/hMc-XT-Azq-view-eYw-PZ-jGH.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			57gZ+p9FkQi3jSOCHraF1JA7N0k=
+			</data>
+			<key>hash2</key>
+			<data>
+			Nuiis4cztjKlE22zXsqFKQDYgHPFvyG0K99R609EF44=
 			</data>
 		</dict>
 		<key>PaymentStartViewController.storyboardc/hMc-XT-Azq-view-eYw-PZ-jGH.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			L6nluRZV4BWhOUZZAymtlYC9zaI=
+			ickOOtQCPKnBitxkzI4huQF75uk=
 			</data>
 			<key>hash2</key>
 			<data>
-			zhtrXJsxWFR6DcpMwSIDNm5M/Qsyt2rK7XzBU9d9Jlc=
+			JdZVC/XfcFQA8GWdpmbW4IoeLev2/aUik6DQ+Sr7xfM=
 			</data>
 		</dict>
 		<key>TableRowView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8W4S0o7ggE+tGBxIHYiE7UAqhxc=
+			/M9iw1qHfJXRW1RLCTlKzR3Jd4E=
 			</data>
 			<key>hash2</key>
 			<data>
-			tr45/sOMbZ+lRPBkSFVeC18TxheuYOwmHmimdVGY1yA=
+			nZ5kt06ftzM92jCm/o6yAUZ1VjJibU6YU1lz+rk3ftI=
+			</data>
+		</dict>
+		<key>TableRowView.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gio5sqcR4dPoWyws2EL/2P5r8NA=
+			</data>
+			<key>hash2</key>
+			<data>
+			7/J5CDJ9hujv5vpGdcstlIXa+yCa/lrdI/60TOE4Zxs=
 			</data>
 		</dict>
 		<key>TableRowView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			TdPc1eI+L+JORkFgxbcJgLppZnU=
+			XTfws/WOFDXQSHwH0BhPmDf52/g=
 			</data>
 			<key>hash2</key>
 			<data>
-			VsY7F6yusfJhd+k1HCeRFkgXK5TguiFF2MynrdH+ZlA=
+			7cqLzBX7jZllnL4HERusc78bUCZj6WwjHCij490AoeY=
 			</data>
 		</dict>
 	</dict>
 	<key>rules</key>
 	<dict>
-		<key>^</key>
+		<key>^.*</key>
 		<true/>
 		<key>^.*\.lproj/</key>
 		<dict>
@@ -765,24 +1185,12 @@
 			<key>weight</key>
 			<real>11</real>
 		</dict>
-		<key>^</key>
-		<dict>
-			<key>weight</key>
-			<real>20</real>
-		</dict>
 		<key>^(.*/)?\.DS_Store$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
 			<real>2000</real>
-		</dict>
-		<key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
-		<dict>
-			<key>nested</key>
-			<true/>
-			<key>weight</key>
-			<real>10</real>
 		</dict>
 		<key>^.*</key>
 		<true/>
@@ -818,13 +1226,6 @@
 			<true/>
 			<key>weight</key>
 			<real>20</real>
-		</dict>
-		<key>^[^/]+$</key>
-		<dict>
-			<key>nested</key>
-			<true/>
-			<key>weight</key>
-			<real>10</real>
 		</dict>
 		<key>^embedded\.provisionprofile$</key>
 		<dict>
