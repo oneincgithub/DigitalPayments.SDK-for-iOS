@@ -1,0 +1,351 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.2 effective-4.2 (swiftlang-1103.0.32.1 clang-1103.0.32.29)
+// swift-module-flags: -target x86_64-apple-ios9.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 4.2 -enforce-exclusivity=checked -O -module-name DigitalPayments_PaymentForm_SDK
+import Foundation
+import Swift
+import UIKit
+import WebKit
+public protocol ValidationRule {
+  func validate(input: Swift.String?) -> Swift.Bool
+  var errorMessage: Swift.String { get }
+}
+public class SaveCreditCardResponse : Swift.Codable, DigitalPayments_PaymentForm_SDK.SavePaymentMethodResponse {
+  public var sessionId: Foundation.UUID?
+  public var lastFourDigits: Swift.String?
+  public var transactionDate: Foundation.Date?
+  public var timeZone: Swift.String?
+  public var batchNumber: Swift.Int?
+  public var tokenId: Swift.String?
+  public var paymentCategory: DigitalPayments_PaymentForm_SDK.PaymentCategory?
+  public var customerName: Swift.String?
+  public var holderZip: Swift.String?
+  public var cardType: Swift.String?
+  public var cardExpirationYear: Swift.Int?
+  public var cardExpirationMonth: Swift.Int?
+  public init()
+  @objc deinit
+  required public init(from decoder: Swift.Decoder) throws
+  public func encode(to encoder: Swift.Encoder) throws
+}
+public class SaveBankAccountResponse : Swift.Codable, DigitalPayments_PaymentForm_SDK.SavePaymentMethodResponse {
+  public var sessionId: Foundation.UUID?
+  public var lastFourDigits: Swift.String?
+  public var transactionDate: Foundation.Date?
+  public var timeZone: Swift.String?
+  public var batchNumber: Swift.Int?
+  public var tokenId: Swift.String?
+  public var paymentCategory: DigitalPayments_PaymentForm_SDK.PaymentCategory?
+  public var customerName: Swift.String?
+  public var accountType: Swift.String?
+  public var bankName: Swift.String?
+  public init()
+  @objc deinit
+  required public init(from decoder: Swift.Decoder) throws
+  public func encode(to encoder: Swift.Encoder) throws
+}
+public enum ValidationResult {
+  case valid
+  case invalid(Swift.String?)
+  public var isValid: Swift.Bool {
+    get
+  }
+}
+extension ValidationResult : Swift.Equatable {
+}
+public func == (lhs: DigitalPayments_PaymentForm_SDK.ValidationResult, rhs: DigitalPayments_PaymentForm_SDK.ValidationResult) -> Swift.Bool
+@_hasMissingDesignatedInitializers public class DigitalPaymentForm {
+  public func close()
+  @objc deinit
+}
+@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class SavePaymentMethodBuilder : DigitalPayments_PaymentForm_SDK.BaseBuilder {
+  public func savePaymentMethod(request: DigitalPayments_PaymentForm_SDK.SavePaymentMethodRequest) -> DigitalPayments_PaymentForm_SDK.SavePaymentMethodBuilder
+  public func onLoad(do onLoadHandler: @escaping () -> Swift.Void) -> DigitalPayments_PaymentForm_SDK.SavePaymentMethodBuilder
+  public func onSaveComplete(do onSaveCompleteHandler: @escaping (DigitalPayments_PaymentForm_SDK.SavePaymentMethodResponse) -> Swift.Void) -> DigitalPayments_PaymentForm_SDK.SavePaymentMethodBuilder
+  public func onSaveCanceled(do onSaveCanceledHandler: @escaping () -> Swift.Void) -> DigitalPayments_PaymentForm_SDK.SavePaymentMethodBuilder
+  public func onClose(do onCloseHandler: @escaping () -> Swift.Void) -> DigitalPayments_PaymentForm_SDK.SavePaymentMethodBuilder
+  public func onError(do onErrorHandler: @escaping (DigitalPayments_PaymentForm_SDK.ErrorResponse) -> Swift.Void) -> DigitalPayments_PaymentForm_SDK.SavePaymentMethodBuilder
+  public func setTheme(theme: DigitalPayments_PaymentForm_SDK.Theme) -> DigitalPayments_PaymentForm_SDK.SavePaymentMethodBuilder
+  @objc deinit
+}
+public struct ValidationRuleExpirationDate : DigitalPayments_PaymentForm_SDK.ValidationRule {
+  public let errorMessage: Swift.String
+  public func validate(input: Swift.String?) -> Swift.Bool
+}
+public protocol BaseResponse : Swift.Decodable, Swift.Encodable {
+  func toJSONString() -> Swift.String
+}
+public enum Theme : Swift.Int {
+  case darkTheme, lightTheme
+  public typealias RawValue = Swift.Int
+  public init?(rawValue: Swift.Int)
+  public var rawValue: Swift.Int {
+    get
+  }
+}
+public protocol PaymentInfo : DigitalPayments_PaymentForm_SDK.BaseResponse {
+  var sessionId: Foundation.UUID? { get set }
+  var transactionId: Swift.String? { get set }
+  var paymentAmount: Foundation.Decimal? { get set }
+  var totalPaymentAmount: Foundation.Decimal? { get set }
+  var convenienceFee: Foundation.Decimal? { get set }
+  var lastFourDigits: Swift.String? { get set }
+  var transactionDate: Foundation.Date? { get set }
+  var timeZone: Swift.String? { get set }
+  var batchNumber: Swift.Int? { get set }
+  var clientReferenceData1: Swift.String? { get set }
+  var tokenId: Swift.String? { get set }
+  var customerName: Swift.String? { get set }
+  var paymentCategory: DigitalPayments_PaymentForm_SDK.PaymentCategory? { get set }
+}
+@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class MakePaymentBuilder : DigitalPayments_PaymentForm_SDK.BaseBuilder {
+  public func makePayment(request: DigitalPayments_PaymentForm_SDK.MakePaymentRequest) -> DigitalPayments_PaymentForm_SDK.MakePaymentBuilder
+  public func onLoad(do onLoadHandler: @escaping () -> Swift.Void) -> DigitalPayments_PaymentForm_SDK.MakePaymentBuilder
+  public func onPaymentComplete(do onPaymentCompleteHandler: @escaping (DigitalPayments_PaymentForm_SDK.PaymentInfo) -> Swift.Void) -> DigitalPayments_PaymentForm_SDK.MakePaymentBuilder
+  public func onPaymentCanceled(do onPaymentCanceledHandler: @escaping () -> Swift.Void) -> DigitalPayments_PaymentForm_SDK.MakePaymentBuilder
+  public func onClose(do onCloseHandler: @escaping () -> Swift.Void) -> DigitalPayments_PaymentForm_SDK.MakePaymentBuilder
+  public func onError(do onErrorHandler: @escaping (DigitalPayments_PaymentForm_SDK.ErrorResponse) -> Swift.Void) -> DigitalPayments_PaymentForm_SDK.MakePaymentBuilder
+  public func setTheme(theme: DigitalPayments_PaymentForm_SDK.Theme) -> DigitalPayments_PaymentForm_SDK.MakePaymentBuilder
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class DPSavePaymentMethod {
+  public static func initialize(sessionKey: Swift.String, url baseUrl: Swift.String) -> DigitalPayments_PaymentForm_SDK.SavePaymentMethodBuilder
+  @objc deinit
+}
+public protocol PaymentRequest {
+  var paymentCategory: DigitalPayments_PaymentForm_SDK.PaymentCategory? { get set }
+  var policyHolderName: Swift.String? { get set }
+  var billingAddressStreet: Swift.String? { get set }
+  var billingZip: Swift.String? { get set }
+  var clientReferenceData1: Swift.String? { get set }
+  var clientReferenceData2: Swift.String? { get set }
+  var clientReferenceData3: Swift.String? { get set }
+  var clientReferenceData4: Swift.String? { get set }
+  var clientReferenceData5: Swift.String? { get set }
+}
+public struct ValidationRuleRequired : DigitalPayments_PaymentForm_SDK.ValidationRule {
+  public let errorMessage: Swift.String
+  public init(errorMessage: Swift.String)
+  public func validate(input: Swift.String?) -> Swift.Bool
+  public func validate(value: Any?) -> Swift.Bool
+}
+public struct ValidationRuleEmail : DigitalPayments_PaymentForm_SDK.ValidationRule {
+  public let errorMessage: Swift.String
+  public init(errorMessage: Swift.String)
+  public func validate(input: Swift.String?) -> Swift.Bool
+}
+public protocol SavePaymentMethodResponse : DigitalPayments_PaymentForm_SDK.BaseResponse {
+  var sessionId: Foundation.UUID? { get set }
+  var tokenId: Swift.String? { get set }
+  var lastFourDigits: Swift.String? { get set }
+  var customerName: Swift.String? { get set }
+  var transactionDate: Foundation.Date? { get set }
+  var timeZone: Swift.String? { get set }
+  var batchNumber: Swift.Int? { get set }
+  var paymentCategory: DigitalPayments_PaymentForm_SDK.PaymentCategory? { get set }
+}
+extension DateFormatter {
+  public static let portalOneDateFormatForString: Foundation.DateFormatter
+  public static let portalOneShortDateFormatForString: Foundation.DateFormatter
+}
+public struct ValidationRuleNumeric : DigitalPayments_PaymentForm_SDK.ValidationRule {
+  public let errorMessage: Swift.String
+  public init(errorMessage: Swift.String? = nil)
+  public func validate(input: Swift.String?) -> Swift.Bool
+}
+@_hasMissingDesignatedInitializers public class DPMakePayment {
+  public static func initialize(sessionKey: Swift.String, url baseUrl: Swift.String) -> DigitalPayments_PaymentForm_SDK.MakePaymentBuilder
+  @objc deinit
+}
+public enum FeeContext : Swift.String, Swift.Codable, Swift.CaseIterable {
+  case paymentWithFee
+  case paymentWithoutFee
+  public typealias RawValue = Swift.String
+  public init?(rawValue: Swift.String)
+  public var rawValue: Swift.String {
+    get
+  }
+  public typealias AllCases = [DigitalPayments_PaymentForm_SDK.FeeContext]
+  public static var allCases: [DigitalPayments_PaymentForm_SDK.FeeContext] {
+    get
+  }
+}
+public enum SaveOption : Swift.String, Swift.Codable {
+  case userSelect
+  case save
+  case doNotSave
+  public typealias RawValue = Swift.String
+  public init?(rawValue: Swift.String)
+  public var rawValue: Swift.String {
+    get
+  }
+}
+public class SavePaymentMethodRequest : DigitalPayments_PaymentForm_SDK.PaymentRequest {
+  public var paymentCategory: DigitalPayments_PaymentForm_SDK.PaymentCategory?
+  public var policyHolderName: Swift.String?
+  public var billingAddressStreet: Swift.String?
+  public var billingZip: Swift.String?
+  public var confirmationDisplay: Swift.Bool?
+  public var clientReferenceData1: Swift.String?
+  public var clientReferenceData2: Swift.String?
+  public var clientReferenceData3: Swift.String?
+  public var clientReferenceData4: Swift.String?
+  public var clientReferenceData5: Swift.String?
+  public init(paymentCategory: DigitalPayments_PaymentForm_SDK.PaymentCategory, policyHolderName: Swift.String? = nil, billingAddressStreet: Swift.String? = nil, billingZip: Swift.String? = nil, confirmationDisplay: Swift.Bool? = nil, clientReferenceData1: Swift.String? = nil, clientReferenceData2: Swift.String? = nil, clientReferenceData3: Swift.String? = nil, clientReferenceData4: Swift.String? = nil, clientReferenceData5: Swift.String? = nil)
+  public func validate() -> [Swift.String : [Swift.String]]
+  @objc deinit
+}
+public struct ValidationRuleLength : DigitalPayments_PaymentForm_SDK.ValidationRule {
+  public var errorMessage: Swift.String
+  public let minLength: Swift.Int
+  public let maxLength: Swift.Int
+  public init(minLength: Swift.Int = 0, maxLength: Swift.Int = Int.max, errorMessage: Swift.String)
+  public func validate(input: Swift.String?) -> Swift.Bool
+}
+public class CreditCardPaymentInfo : Swift.Codable, DigitalPayments_PaymentForm_SDK.PaymentInfo {
+  public var sessionId: Foundation.UUID?
+  public var transactionId: Swift.String?
+  public var paymentAmount: Foundation.Decimal?
+  public var totalPaymentAmount: Foundation.Decimal?
+  public var convenienceFee: Foundation.Decimal?
+  public var lastFourDigits: Swift.String?
+  public var transactionDate: Foundation.Date?
+  public var timeZone: Swift.String?
+  public var batchNumber: Swift.Int?
+  public var clientReferenceData1: Swift.String?
+  public var tokenId: Swift.String?
+  public var customerName: Swift.String?
+  public var paymentCategory: DigitalPayments_PaymentForm_SDK.PaymentCategory?
+  public var holderZip: Swift.String?
+  public var cardType: Swift.String?
+  public var authCode: Swift.String?
+  public var cardExpirationYear: Swift.Int?
+  public var cardExpirationMonth: Swift.Int?
+  public init()
+  required public init(from decoder: Swift.Decoder) throws
+  @objc deinit
+  public func encode(to encoder: Swift.Encoder) throws
+}
+public struct FormValidator {
+  public static func isValid(view: UIKit.UIView) -> Swift.Bool
+}
+@_hasMissingDesignatedInitializers public class BaseBuilder {
+  public func start(hostViewController: UIKit.UIViewController) -> DigitalPayments_PaymentForm_SDK.DigitalPaymentForm
+  public func startWebView(hostViewController: UIKit.UIViewController) -> DigitalPayments_PaymentForm_SDK.DigitalPaymentForm
+  @objc deinit
+}
+public struct ValidationRuleEquality : DigitalPayments_PaymentForm_SDK.ValidationRule {
+  public let errorMessage: Swift.String
+  public func validate(input: Swift.String?) -> Swift.Bool
+}
+public enum PaymentCategory : Swift.String, Swift.Codable, Swift.CaseIterable {
+  case creditCard
+  case eCheck
+  case userSelect
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+  public init?(rawValue: Swift.String)
+  public typealias AllCases = [DigitalPayments_PaymentForm_SDK.PaymentCategory]
+  public static var allCases: [DigitalPayments_PaymentForm_SDK.PaymentCategory] {
+    get
+  }
+}
+public struct ValidationRuleValueBetween : DigitalPayments_PaymentForm_SDK.ValidationRule {
+  public let errorMessage: Swift.String
+  public init(min: Foundation.Decimal, max: Foundation.Decimal, errorMessage: Swift.String? = nil)
+  public func validate(input: Swift.String?) -> Swift.Bool
+  public func validate(value: Foundation.Decimal?) -> Swift.Bool
+}
+public class MakePaymentRequest : DigitalPayments_PaymentForm_SDK.PaymentRequest {
+  public var paymentCategory: DigitalPayments_PaymentForm_SDK.PaymentCategory?
+  public var feeContext: DigitalPayments_PaymentForm_SDK.FeeContext?
+  public var amountContext: DigitalPayments_PaymentForm_SDK.AmountContext?
+  public var minAmountDue: Foundation.Decimal?
+  public var accountBalance: Foundation.Decimal?
+  public var policyHolderName: Swift.String?
+  public var billingAddressStreet: Swift.String?
+  public var billingZip: Swift.String?
+  public var confirmationDisplay: Swift.Bool?
+  public var token: Swift.String?
+  public var saveOption: DigitalPayments_PaymentForm_SDK.SaveOption?
+  public var savePaymentMethod: Swift.Bool?
+  public var accountGroupCode: Swift.String?
+  public var convenienceFeeType: Swift.String?
+  public var clientReferenceData1: Swift.String?
+  public var clientReferenceData2: Swift.String?
+  public var clientReferenceData3: Swift.String?
+  public var clientReferenceData4: Swift.String?
+  public var clientReferenceData5: Swift.String?
+  public init(paymentCategory: DigitalPayments_PaymentForm_SDK.PaymentCategory, feeContext: DigitalPayments_PaymentForm_SDK.FeeContext? = nil, amountContext: DigitalPayments_PaymentForm_SDK.AmountContext? = nil, minAmountDue: Foundation.Decimal? = nil, accountBalance: Foundation.Decimal? = nil, policyHolderName: Swift.String? = nil, billingAddressStreet: Swift.String? = nil, billingZip: Swift.String? = nil, confirmationDisplay: Swift.Bool? = nil, token: Swift.String? = nil, saveOption: DigitalPayments_PaymentForm_SDK.SaveOption? = nil, savePaymentMethod: Swift.Bool? = nil, accountGroupCode: Swift.String? = nil, convenienceFeeType: Swift.String? = nil, clientReferenceData1: Swift.String? = nil, clientReferenceData2: Swift.String? = nil, clientReferenceData3: Swift.String? = nil, clientReferenceData4: Swift.String? = nil, clientReferenceData5: Swift.String? = nil)
+  public func validate() -> [Swift.String : [Swift.String]]
+  @objc deinit
+}
+public class BankAccountPaymentInfo : Swift.Codable, DigitalPayments_PaymentForm_SDK.PaymentInfo {
+  public var sessionId: Foundation.UUID?
+  public var transactionId: Swift.String?
+  public var paymentAmount: Foundation.Decimal?
+  public var totalPaymentAmount: Foundation.Decimal?
+  public var convenienceFee: Foundation.Decimal?
+  public var lastFourDigits: Swift.String?
+  public var transactionDate: Foundation.Date?
+  public var timeZone: Swift.String?
+  public var batchNumber: Swift.Int?
+  public var clientReferenceData1: Swift.String?
+  public var tokenId: Swift.String?
+  public var customerName: Swift.String?
+  public var paymentCategory: DigitalPayments_PaymentForm_SDK.PaymentCategory?
+  public var accountType: Swift.String?
+  public var bankName: Swift.String?
+  public init()
+  required public init(from decoder: Swift.Decoder) throws
+  @objc deinit
+  public func encode(to encoder: Swift.Encoder) throws
+}
+extension BaseResponse {
+  public func toJSONString() -> Swift.String
+}
+public enum AmountContext : Swift.String, Swift.Codable {
+  case selectOrEnterAmount
+  case selectOrEnterAmountConstrained
+  case amountDueOnly
+  case selectAmount
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+  public init?(rawValue: Swift.String)
+}
+public protocol ApiResponseProtocol : Swift.Decodable, Swift.Encodable {
+  var responseCode: Swift.String? { get set }
+  var responseMessage: Swift.String? { get set }
+  init()
+}
+extension ApiResponseProtocol {
+  public var isSuccessful: Swift.Bool {
+    get
+  }
+}
+public class ErrorResponse : Swift.Codable, DigitalPayments_PaymentForm_SDK.BaseResponse {
+  public var description: Swift.String?
+  public var details: [Swift.String : [Swift.String]]?
+  public init(description: Swift.String)
+  required public init(from decoder: Swift.Decoder) throws
+  @objc deinit
+  public func encode(to encoder: Swift.Encoder) throws
+}
+extension DigitalPayments_PaymentForm_SDK.Theme : Swift.Equatable {}
+extension DigitalPayments_PaymentForm_SDK.Theme : Swift.Hashable {}
+extension DigitalPayments_PaymentForm_SDK.Theme : Swift.RawRepresentable {}
+extension DigitalPayments_PaymentForm_SDK.FeeContext : Swift.Equatable {}
+extension DigitalPayments_PaymentForm_SDK.FeeContext : Swift.Hashable {}
+extension DigitalPayments_PaymentForm_SDK.FeeContext : Swift.RawRepresentable {}
+extension DigitalPayments_PaymentForm_SDK.SaveOption : Swift.Equatable {}
+extension DigitalPayments_PaymentForm_SDK.SaveOption : Swift.Hashable {}
+extension DigitalPayments_PaymentForm_SDK.SaveOption : Swift.RawRepresentable {}
+extension DigitalPayments_PaymentForm_SDK.PaymentCategory : Swift.Equatable {}
+extension DigitalPayments_PaymentForm_SDK.PaymentCategory : Swift.Hashable {}
+extension DigitalPayments_PaymentForm_SDK.PaymentCategory : Swift.RawRepresentable {}
+extension DigitalPayments_PaymentForm_SDK.AmountContext : Swift.Equatable {}
+extension DigitalPayments_PaymentForm_SDK.AmountContext : Swift.Hashable {}
+extension DigitalPayments_PaymentForm_SDK.AmountContext : Swift.RawRepresentable {}
